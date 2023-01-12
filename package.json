@@ -1,4 +1,5 @@
 {
+  "name": "node-red-fd-svg",
   "devDependencies": {
     "@tsconfig/node16": "^1.0.3",
     "@types/jest": "^29.2.5",
